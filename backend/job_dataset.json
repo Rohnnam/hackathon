@@ -1,0 +1,352 @@
+[
+  {
+    "career": "Art Therapists",
+    "core_skills": ["Active Listening", "Social Perceptiveness", "Speaking", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Design art therapy programs to meet clients' needs and objectives."
+  },
+  {
+    "career": "Athletic Trainers",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Monitoring"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Evaluate and advise individuals to assist recovery from or avoid athletic-related injuries."
+  },
+  {
+    "career": "Audiologists",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess and treat persons with hearing and related disorders."
+  },
+  {
+    "career": "Chefs and Head Cooks",
+    "core_skills": ["Active Listening", "Speaking", "Coordination", "Time Management", "Monitoring"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Direct and coordinate food preparation in kitchens."
+  },
+  {
+    "career": "Childcare Workers",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Monitoring", "Service Orientation"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Attend to children at schools, businesses, private households, and childcare institutions."
+  },
+  {
+    "career": "Chiropractors",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess, treat, and care for patients by manipulation of spine and musculoskeletal system."
+  },
+  {
+    "career": "Choreographers",
+    "core_skills": ["Speaking", "Active Listening", "Instructing", "Social Perceptiveness", "Coordination"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Create new dance routines and teach them to performers."
+  },
+  {
+    "career": "Clinical and Counseling Psychologists",
+    "core_skills": ["Active Listening", "Social Perceptiveness", "Speaking", "Reading Comprehension", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess, diagnose, and treat mental and emotional disorders."
+  },
+  {
+    "career": "Coaches and Scouts",
+    "core_skills": ["Instructing", "Speaking", "Active Listening", "Monitoring", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Instruct individuals or groups in sports activities and coach teams."
+  },
+  {
+    "career": "Community Health Workers",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Persuasion"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assist individuals and communities to adopt healthy behaviors."
+  },
+  {
+    "career": "Curators",
+    "core_skills": ["Reading Comprehension", "Speaking", "Active Listening", "Writing", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Administer collections of works of art, historical objects, or scientific objects."
+  },
+  {
+    "career": "Dental Hygienists",
+    "core_skills": ["Active Listening", "Speaking", "Service Orientation", "Social Perceptiveness", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Clean teeth and provide preventive care in dental offices."
+  },
+  {
+    "career": "Dietitians and Nutritionists",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Advise patients on nutritional principles and modify diets."
+  },
+  {
+    "career": "Elementary School Teachers",
+    "core_skills": ["Instructing", "Speaking", "Active Listening", "Learning Strategies", "Reading Comprehension"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Teach elementary school subjects to students."
+  },
+  {
+    "career": "Exercise Physiologists",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Analyze responses to exercise to improve health."
+  },
+  {
+    "career": "Exercise Trainers and Group Fitness Instructors",
+    "core_skills": ["Instructing", "Speaking", "Active Listening", "Monitoring", "Service Orientation"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Instruct individuals in exercise activities."
+  },
+  {
+    "career": "Genetic Counselors",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess individual or family risk for genetic disorders."
+  },
+  {
+    "career": "Healthcare Social Workers",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assist patients with social and emotional needs in healthcare settings."
+  },
+  {
+    "career": "Home Health Aides",
+    "core_skills": ["Service Orientation", "Active Listening", "Speaking", "Social Perceptiveness", "Monitoring"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Provide routine healthcare to patients in their homes."
+  },
+  {
+    "career": "Human Resources Managers",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "Medium",
+    "growth": "Medium",
+    "description": "Plan, direct, and coordinate human resources policies."
+  },
+  {
+    "career": "Human Resources Specialists",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Persuasion", "Critical Thinking"],
+    "ai_resilience": "Medium",
+    "growth": "Medium",
+    "description": "Recruit, interview, and place workers."
+  },
+  {
+    "career": "Industrial-Organizational Psychologists",
+    "core_skills": ["Reading Comprehension", "Active Listening", "Speaking", "Critical Thinking", "Writing"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Apply psychological principles to workplace issues."
+  },
+  {
+    "career": "Marriage and Family Therapists",
+    "core_skills": ["Active Listening", "Social Perceptiveness", "Speaking", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Diagnose and treat mental and emotional disorders within relationships."
+  },
+  {
+    "career": "Massage Therapists",
+    "core_skills": ["Service Orientation", "Active Listening", "Speaking", "Social Perceptiveness", "Monitoring"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Perform therapeutic massages to improve health."
+  },
+  {
+    "career": "Mental Health Counselors",
+    "core_skills": ["Active Listening", "Social Perceptiveness", "Speaking", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Counsel individuals with mental health issues."
+  },
+  {
+    "career": "Music Therapists",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Plan, organize, and direct music therapy programs."
+  },
+  {
+    "career": "Nurse Practitioners",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Diagnose and treat acute, chronic, and wellness conditions."
+  },
+  {
+    "career": "Occupational Therapists",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Help patients develop, recover, and improve daily living skills."
+  },
+  {
+    "career": "Optometrists",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Diagnose and treat visual problems and eye diseases."
+  },
+  {
+    "career": "Personal Care Aides",
+    "core_skills": ["Service Orientation", "Active Listening", "Speaking", "Social Perceptiveness", "Monitoring"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Assist individuals with disabilities or illness in daily living tasks."
+  },
+  {
+    "career": "Physical Therapists",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess, plan, and implement rehabilitative programs for patients."
+  },
+  {
+    "career": "Physician Assistants",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Provide healthcare services under physician supervision."
+  },
+  {
+    "career": "Producers and Directors",
+    "core_skills": ["Speaking", "Active Listening", "Coordination", "Social Perceptiveness", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Produce or direct stage, television, radio, video, or film productions for entertainment or instruction."
+  },
+  {
+    "career": "Recreational Therapists",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Coordination"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Plan and direct recreation-based treatment programs for people with disabilities or illnesses."
+  },
+  {
+    "career": "Registered Nurses",
+    "core_skills": ["Active Listening", "Social Perceptiveness", "Service Orientation", "Speaking", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess patient health problems and needs, develop nursing care plans."
+  },
+  {
+    "career": "School Psychologists",
+    "core_skills": ["Active Listening", "Social Perceptiveness", "Speaking", "Reading Comprehension", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Diagnose and implement individual or schoolwide interventions for student learning and behavior problems."
+  },
+  {
+    "career": "Social and Community Service Managers",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Coordination", "Critical Thinking"],
+    "ai_resilience": "Medium",
+    "growth": "High",
+    "description": "Plan, direct, or coordinate activities of a social service program or community outreach organization."
+  },
+  {
+    "career": "Speech-Language Pathologists",
+    "core_skills": ["Active Listening", "Speaking", "Reading Comprehension", "Critical Thinking", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Assess and treat persons with speech, language, voice, and fluency disorders."
+  },
+  {
+    "career": "Substance Abuse and Behavioral Disorder Counselors",
+    "core_skills": ["Active Listening", "Speaking", "Social Perceptiveness", "Service Orientation", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Counsel and advise individuals with alcohol, tobacco, drug, or other problems."
+  },
+  {
+    "career": "Veterinarians",
+    "core_skills": ["Active Listening", "Speaking", "Critical Thinking", "Reading Comprehension", "Science"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Diagnose, treat, or research diseases and injuries of animals."
+  },
+  {
+    "career": "Web and Digital Interface Designers",
+    "core_skills": ["Programming", "Active Listening", "Critical Thinking", "Reading Comprehension", "Operations Analysis"],
+    "ai_resilience": "Medium",
+    "growth": "High",
+    "description": "Design digital user interfaces or websites, blending tech with user empathy."
+  },
+  {
+    "career": "AI Product Managers",
+    "core_skills": ["Communication", "Data Analysis", "Leadership", "Tech Understanding", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Oversee AI-driven products, bridging business and technical teams."
+  },
+  {
+    "career": "UX Designers",
+    "core_skills": ["Creativity", "Empathy", "Design Thinking", "User Research", "Prototyping", "Critical Thinking"],
+    "ai_resilience": "High",
+    "growth": "High",
+    "description": "Design user experiences combining creativity with user empathy."
+  },
+  {
+    "career": "Data Ethicist",
+    "core_skills": ["Critical Thinking", "Ethics Knowledge", "Communication", "Analysis", "Social Perceptiveness"],
+    "ai_resilience": "High",
+    "growth": "Very High",
+    "description": "Ensure ethical use of data and AI in organizations."
+  },
+  {
+    "career": "Sustainability Specialists",
+    "core_skills": ["Critical Thinking", "Speaking", "Reading Comprehension", "Active Listening", "Systems Analysis"],
+    "ai_resilience": "Medium",
+    "growth": "High",
+    "description": "Address organizational sustainability issues, such as waste management or energy efficiency."
+  },
+  {
+    "career": "Event Planners",
+    "core_skills": ["Active Listening", "Speaking", "Coordination", "Social Perceptiveness", "Time Management"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Coordinate activities of staff, convention personnel, or clients to make arrangements for group meetings."
+  },
+  {
+    "career": "Graphic Designers",
+    "core_skills": ["Active Listening", "Critical Thinking", "Speaking", "Reading Comprehension", "Operations Analysis"],
+    "ai_resilience": "Medium",
+    "growth": "Medium",
+    "description": "Design or create graphics to meet specific commercial or promotional needs."
+  },
+  {
+    "career": "Interior Designers",
+    "core_skills": ["Active Listening", "Speaking", "Critical Thinking", "Social Perceptiveness", "Reading Comprehension"],
+    "ai_resilience": "High",
+    "growth": "Medium",
+    "description": "Plan, design, and furnish the internal space of rooms or buildings."
+  },
+  {
+    "career": "Librarians and Media Collections Specialists",
+    "core_skills": ["Active Listening", "Reading Comprehension", "Speaking", "Critical Thinking", "Instructing"],
+    "ai_resilience": "Medium",
+    "growth": "Medium",
+    "description": "Administer and maintain libraries or collections of information."
+  },
+  {
+    "career": "Writers and Authors",
+    "core_skills": ["Writing", "Reading Comprehension", "Active Listening", "Speaking", "Critical Thinking"],
+    "ai_resilience": "Medium",
+    "growth": "Medium",
+    "description": "Originate and prepare written material, such as scripts, stories, advertisements, and other material."
+  }
+]
